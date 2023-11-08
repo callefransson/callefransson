@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is Calle and im currently learning C# and .NET
+I have some knowledge in HTML, CSS, JS, Wordpress.
 <!--
 **callefransson/callefransson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
